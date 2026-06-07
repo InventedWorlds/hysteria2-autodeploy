@@ -1,0 +1,24 @@
+# Секреты
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# Локальные/исторические артефакты с личными данными (не публикуются)
+hysteria-config.yaml
+hysteria-cert-deploy.sh
+add_hysteria2.py
+add_inbound.py
+sni-router.conf
+hy2_probe.json
+hy2_client_probe.json
+
+# Прочее
+.DS_Store
+*.log
+*.bak
