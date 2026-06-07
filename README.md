@@ -77,8 +77,6 @@ Password=YOUR_SSH_PASSWORD
 DNS=example.com
 ```
 
-> `.env` уже в `.gitignore` — секреты не попадут в репозиторий.
-
 ## Использование
 
 ```bash
